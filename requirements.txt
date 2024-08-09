@@ -2,7 +2,7 @@ streamlit==1.37.1
 numpy==1.26.4
 pandas==2.2.2
 scikit-surprise==1.1.4
-networkx==3.1
-stellargraph==1.2.1
+networkx==2.8.8  
+stellargraph==0.10.0 
 scikit-learn==1.2.2
 requests==2.30.0
