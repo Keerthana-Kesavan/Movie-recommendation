@@ -20,7 +20,7 @@ def fetch_details(tmdbId):
     response = requests.get('https://api.themoviedb.org/3/movie/{}?api_key=d8ee6f66bcbb558bffdc1a35af3f725d&language=en-US'.format(tmdbId))
     return response.json()
 
-path_ = 'C:/Users/ANKUR/Desktop/Project/'
+path_ = 'C:\Users\Keert\Desktop\Movie_rec'
 base_url = 'https://image.tmdb.org/t/p/w500'
 X_train = pd.read_csv(path_+'xtrain.csv')
 train_movies = pd.read_csv(path_+'train_movies.csv')
