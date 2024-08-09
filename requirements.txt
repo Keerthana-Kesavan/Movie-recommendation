@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+scikit-surprise
+networkx
+stellargraph
+scikit-learn
+requests
