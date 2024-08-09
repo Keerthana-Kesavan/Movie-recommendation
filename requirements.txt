@@ -1,7 +1,0 @@
-streamlit
-numpy
-pandas
-scikit-surprise
-networkx
-scikit-learn
-requests
